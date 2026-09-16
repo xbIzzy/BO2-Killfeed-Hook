@@ -25,3 +25,5 @@ void CL_ConsolePrint_AddLineHook(int localClientNum, int channel, const char* tx
 	CL_ConsolePrint_AddLineDetour->callOriginal(localClientNum, channel, txt, duration, pixelWidth, color, flags);
 }
 ```
+## What it could look like
+https://youtu.be/sc2MHtLe_1Q?si=zCYv9tXc1oDs76ab
