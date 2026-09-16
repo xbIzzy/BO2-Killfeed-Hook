@@ -1,5 +1,5 @@
 #  BO2 Killfeed Hook Example
-Hook used to create custom Killfeed in Cod Bo2 and its
+Hook used to create custom Killfeed in Cod Bo2
 ## 360 Address
 ```
 CL_ConsolePrint_AddLineHook = 0x82267520
@@ -26,4 +26,4 @@ void CL_ConsolePrint_AddLineHook(int localClientNum, int channel, const char* tx
 }
 ```
 ## What it could look like
-https://youtu.be/sc2MHtLe_1Q?si=zCYv9tXc1oDs76ab
+[![Link](https://img.youtube.com/vi/sc2MHtLe_1Q/hqdefault.jpg)](https://youtu.be/sc2MHtLe_1Q)
