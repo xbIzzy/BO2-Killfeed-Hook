@@ -26,4 +26,4 @@ void CL_ConsolePrint_AddLineHook(int localClientNum, int channel, const char* tx
 }
 ```
 ## What it could look like
-[![Link](https://img.youtube.com/vi/sc2MHtLe_1Q/hqdefault.jpg)](https://youtu.be/sc2MHtLe_1Q)
+https://www.youtube.com/watch?v=sc2MHtLe_1Q
