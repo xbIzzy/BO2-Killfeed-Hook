@@ -4,7 +4,7 @@ Hook used to create custom Killfeed in Cod Bo2 and its
 ```
 CL_ConsolePrint_AddLineHook = 0x82267520
 ```
-## Hook
+## Hook Example
 ```cpp
 void CL_ConsolePrint_AddLineHook(int localClientNum, int channel, const char* txt, int duration, int pixelWidth, int color, int flags)
 {
